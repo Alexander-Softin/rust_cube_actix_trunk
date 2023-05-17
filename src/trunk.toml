@@ -1,0 +1,7 @@
+[app]
+dist_dir = "dist"
+dev_url = "http://localhost:8080"
+
+[app.mount."src/main.rs"]
+type = "rust"
+dist = "bevy_cubes/index.html"
