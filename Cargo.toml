@@ -10,6 +10,8 @@ bevy_fly_camera = "0.10"
 bevy_transform_gizmo = "0.6"
 actix-files = "0.6.2"
 actix-web = "4.3.1"
+actix-rt = "2.4"
+mysql = "24.0.0"
 
 [dev-dependencies]
 trunk = "0.16"
